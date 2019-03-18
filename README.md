@@ -1,17 +1,17 @@
 # Bees In The Trap
 
-A simple CLI php game without any prebuilt framework.
+A simple CLI php game without any prebuilt framework
 
-'''setup'''
+**setup**
 
 `git clone https://github.com/edweld/beegame.git`
 
 `composer install`
 
-'''unit tests'''
+**unit tests**
 
 `cd tests && git clone https://github.com/edweld/beegame-tests.git`
 
-'''play'''
+**play**
 
 ` php app.php`
